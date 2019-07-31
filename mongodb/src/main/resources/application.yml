@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: mongodb-example
+  data:
+    mongodb:
+      uri: mongodb://123.207.255.184:27017/test

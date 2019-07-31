@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Class.txt.ft">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Interface.txt.ft">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Pinnacle/Activi/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Pinnacle/companyCvexplorer/src/main/java/com/pinnacle/repository/JDRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Pinnacle/cv-explorer/src/main/java/com/pinnacle/CvexplorerApp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Pinnacle/cv-explorer/src/main/java/com/pinnacle/domain/ResumeLabel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Pinnacle/cv-explorer/src/main/java/com/pinnacle/repository/mongo/primary/CompanyRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Pinnacle/cv-explorer/src/main/java/com/pinnacle/repository/mongo/primary/DictRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Pinnacle/cv-explorer/src/main/java/com/pinnacle/repository/mongo/primary/JDResumeRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Pinnacle/cv-explorer/src/main/java/com/pinnacle/repository/mongo/primary/JdPreprocessRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Pinnacle/cv-explorer/src/main/java/com/pinnacle/repository/mongo/resume/ResumeCurMongoRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Pinnacle/cv-explorer/src/main/java/com/pinnacle/repository/mongo/resume/ResumeCurPreprocessRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Pinnacle/cv-explorer/src/main/java/com/pinnacle/repository/mongo/resume/ResumeMongoRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Pinnacle/cv-explorer/src/main/java/com/pinnacle/service/CompanyService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Pinnacle/cv-explorer/src/main/java/com/pinnacle/service/JDService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Pinnacle/cv-explorer/src/main/java/com/pinnacle/service/ResumeLabelService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Pinnacle/cv-explorer/src/main/java/com/pinnacle/util/ResumeParseUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Pinnacle/cv-explorer/src/main/java/com/pinnacle/web/rest/api/EmailApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Pinnacle/cv-explorer/src/main/java/com/pinnacle/web/rest/api/JDApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Pinnacle/cv-explorer/src/main/java/com/pinnacle/web/rest/api/JDResumeApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Pinnacle/cv-explorer/src/main/resources/config/application-dev.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Pinnacle/cv-explorer/src/main/resources/fnlp-core-2.1-SNAPSHOT.jar!/org/fnlp/nlp/cn/CNFactory.class">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Pinnacle/cv-explorer/src/test/java/com/pinnacle/test/TestStream.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Pinnacle/jh-uaa/src/main/java/com/pinnacle/aop/logging/LoggingAspect.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Pinnacle/jh-uaa/src/main/java/com/pinnacle/domain/CheckPoint.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Pinnacle/jh-uaa/src/main/java/com/pinnacle/web/rest/ResData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../Pinnacle/jh-uaa/src/main/java/com/pinnacle/web/rest/UserResource.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mongodb/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mongodb/src/main/java/com/example/mongodb/model/ResumeCurPreprocess.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mongodb/src/main/java/com/example/mongodb/model/ResumeLabel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mongodb/src/main/java/com/example/mongodb/repository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mongodb/src/main/java/com/example/mongodb/repository/ResumeCurPreprocessRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mongodb/src/main/java/com/example/mongodb/repository/ResumeLabel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mongodb/src/main/java/com/example/mongodb/repository/ResumeLabelRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mongodb/src/main/java/com/example/mongodb/service/ResumeCurPreprocessService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mongodb/src/main/java/com/example/mongodb/service/ResumeCurPreprocessServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mongodb/src/main/java/com/example/mongodb/service/ResumeLabelService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mongodb/src/main/java/com/example/mongodb/service/ResumeLabelServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mongodb/src/main/java/com/example/mongodb/service/ResumeLabenService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mongodb/src/main/java/com/example/mongodb/utils/JsonUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mongodb/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/mongodb/src/test/java/com/example/mongodb/MongodbApplicationTests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../cv-explorer/src/main/java/com/pinnacle/domain/ResumeLabel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../cv-explorer/src/main/java/com/pinnacle/service/JDService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../spring-example/activiti/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

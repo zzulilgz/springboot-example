@@ -1,13 +1,13 @@
-package com.example.activiti;
+package com.example.mongodb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ActivitiApplication {
+public class MongodbApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ActivitiApplication.class, args);
+        SpringApplication.run(MongodbApplication.class, args);
     }
 
 }
